@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/mariane-firmino">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariane-firmino&show_icons=true&theme=radical&rank_icon=github"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=mariane-firmino&show_icons=true&theme=radical&rank_icon=percentile"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=marianefirmino&show_icons=true&theme=radical&rank_icon=github"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=marianefirmino&show_icons=true&theme=radical&rank_icon=percentile"/>
   </a>
 </div>
 
