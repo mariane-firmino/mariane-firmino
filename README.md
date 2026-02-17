@@ -1,12 +1,6 @@
 ## Olá! Eu sou a Mariane Firmino👋 
 
-<div>
-  <a href="https://github.com/mariane-firmino">
-    <img src="https://github-readme-stats.vercel.app/api?username=mariane-firmino&show_icons=true&theme=radical&rank_icon=github"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=mariane-firmino&show_icons=true&theme=radical&rank_icon=percentile"/>
-  </a>
-</div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!--
 **mariane-firmino/mariane-firmino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
