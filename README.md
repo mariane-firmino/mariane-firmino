@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Mariane Firmino👋 
 
 <div>
-  <a href="https://beacons.ai/rafaballerini">
+  <a href="https://github.com/mariane-firmino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username-mariane-firmino&show_icons-true&theme
 draculašinclude_all_commits-true&count_private-true"/>
   <img height="188em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-mariane-firmino&layout-compact&langs_count=16&theme-dracula"/>
